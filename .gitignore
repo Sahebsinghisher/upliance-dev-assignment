@@ -1,0 +1,19 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore user config and cache directories
+.idea/
+.vscode/
+.gradle/
+.m2/
+.npm/
+.cache/
+node_modules/
+
+# Ignore OS-specific directories
+Application Data/
+Local Settings/
+Recent/
+Templates/
